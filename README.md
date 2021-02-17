@@ -37,7 +37,7 @@ su - app
 
 ##### 2.3.2 Clone nDAX
 ```bash
-git clone https://github.com/cheeseswapbsc/ndax.git
+git clone https://github.com/mehmet-biter/b-cex.git
 ```
 
 ##### 2.3.3 Install RVM
